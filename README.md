@@ -1,13 +1,11 @@
-## Automated Security Imaging Repository
+# AutomatedSecurityImaging
+ 
 
-This repository is a snapshot of the Automated Security Imaging project, focusing on the implementation of Mask-RCNN with an attention mechanism. The primary objective was to classify prohibited objects detected during security scanning using the GDXray and OPIXray datasets, ultimately aiming to automate security imaging processes.
+This repository is an excerpt from the original Automated Security Imaging project where we implemented Mask-RCNN with attention mechanism to classify prohibited objects during security scanning by using the GDXray and OPIXray datasets. The study was aimed to automate the security imaging.
 
-### Model Performance
-- Accuracy: 92.34%
-- Precision: 0.87
+Our model was 92.34\% accurate with a precision value of 0.87.
 
-### Datasets
-The GDXray and OPIXray datasets used in this project can be downloaded [here](https://domingomery.ing.puc.cl/material/gdxray/).
+### MRCNN_GDXray
+The dataset can be downloaded from [here](https://domingomery.ing.puc.cl/material/gdxray/) 
 
-### References
-- [More info.](http://vriffo1.sitios.ing.uc.cl/papers/journals/GDXray2015.pdf)
+[Reference Link](http://vriffo1.sitios.ing.uc.cl/papers/journals/GDXray2015.pdf)
